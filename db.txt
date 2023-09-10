@@ -1,0 +1,5 @@
+:- dynamic objetivo/2.
+
+objetivo(1,'perder peso').
+objetivo(1,'ganar músculo).
+objetivo(1,'mejorar la resistencia').
